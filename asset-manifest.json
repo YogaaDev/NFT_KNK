@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.8884c2d9.chunk.css",
+    "main.css": "/static/css/main.64c93f58.chunk.css",
     "main.js": "/static/js/main.489ccc33.chunk.js",
     "main.js.map": "/static/js/main.489ccc33.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.99448097.js",
@@ -12,7 +12,7 @@
     "static/js/3.e6582a43.chunk.js.map": "/static/js/3.e6582a43.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.acf9cc11.chunk.css.map": "/static/css/2.acf9cc11.chunk.css.map",
-    "static/css/main.8884c2d9.chunk.css.map": "/static/css/main.8884c2d9.chunk.css.map",
+    "static/css/main.64c93f58.chunk.css.map": "/static/css/main.64c93f58.chunk.css.map",
     "static/js/2.5508c667.chunk.js.LICENSE.txt": "/static/js/2.5508c667.chunk.js.LICENSE.txt",
     "static/media/Big-mechant.be7bb2cf.png": "/static/media/Big-mechant.be7bb2cf.png",
     "static/media/App.css": "/static/media/Tokyo-Regular.663086c7.ttf",
@@ -34,7 +34,7 @@
     "static/js/runtime-main.99448097.js",
     "static/css/2.acf9cc11.chunk.css",
     "static/js/2.5508c667.chunk.js",
-    "static/css/main.8884c2d9.chunk.css",
+    "static/css/main.64c93f58.chunk.css",
     "static/js/main.489ccc33.chunk.js"
   ]
 }
