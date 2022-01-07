@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.eae98062.chunk.css",
+    "main.js": "/static/js/main.d1fc89ba.chunk.js",
+    "main.js.map": "/static/js/main.d1fc89ba.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.99448097.js",
+    "runtime-main.js.map": "/static/js/runtime-main.99448097.js.map",
+    "static/css/2.acf9cc11.chunk.css": "/static/css/2.acf9cc11.chunk.css",
+    "static/js/2.5508c667.chunk.js": "/static/js/2.5508c667.chunk.js",
+    "static/js/2.5508c667.chunk.js.map": "/static/js/2.5508c667.chunk.js.map",
+    "static/js/3.e6582a43.chunk.js": "/static/js/3.e6582a43.chunk.js",
+    "static/js/3.e6582a43.chunk.js.map": "/static/js/3.e6582a43.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.acf9cc11.chunk.css.map": "/static/css/2.acf9cc11.chunk.css.map",
+    "static/css/main.eae98062.chunk.css.map": "/static/css/main.eae98062.chunk.css.map",
+    "static/js/2.5508c667.chunk.js.LICENSE.txt": "/static/js/2.5508c667.chunk.js.LICENSE.txt",
+    "static/media/Big-mechant.be7bb2cf.png": "/static/media/Big-mechant.be7bb2cf.png",
+    "static/media/App.css": "/static/media/Tokyo-Regular.663086c7.ttf",
+    "static/media/Daron.4aa4d2da.png": "/static/media/Daron.4aa4d2da.png",
+    "static/media/Smicu.f13c4ad3.png": "/static/media/Smicu.f13c4ad3.png",
+    "static/media/about-chn.8533d0e9.png": "/static/media/about-chn.8533d0e9.png",
+    "static/media/black-task-text.e19a0c16.png": "/static/media/black-task-text.e19a0c16.png",
+    "static/media/black-task.96d69bda.png": "/static/media/black-task.96d69bda.png",
+    "static/media/card.061e111d.png": "/static/media/card.061e111d.png",
+    "static/media/chn.e7273189.png": "/static/media/chn.e7273189.png",
+    "static/media/discord.cf2a8185.svg": "/static/media/discord.cf2a8185.svg",
+    "static/media/footer-chn.540b06fe.png": "/static/media/footer-chn.540b06fe.png",
+    "static/media/left-task.956a9c7f.png": "/static/media/left-task.956a9c7f.png",
+    "static/media/index.css": "/static/media/mountains.2df4b11a.png",
+    "static/media/right-task.0e1dfb68.png": "/static/media/right-task.0e1dfb68.png",
+    "static/media/twitter.278a398a.svg": "/static/media/twitter.278a398a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.99448097.js",
+    "static/css/2.acf9cc11.chunk.css",
+    "static/js/2.5508c667.chunk.js",
+    "static/css/main.eae98062.chunk.css",
+    "static/js/main.d1fc89ba.chunk.js"
+  ]
+}
