@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.9ec19f23.chunk.css",
-    "main.js": "/static/js/main.9b5b97b4.chunk.js",
-    "main.js.map": "/static/js/main.9b5b97b4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b9c1b99e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b9c1b99e.js.map",
-    "static/css/2.acf9cc11.chunk.css": "/static/css/2.acf9cc11.chunk.css",
-    "static/js/2.e6513078.chunk.js": "/static/js/2.e6513078.chunk.js",
-    "static/js/2.e6513078.chunk.js.map": "/static/js/2.e6513078.chunk.js.map",
-    "static/js/3.380075c9.chunk.js": "/static/js/3.380075c9.chunk.js",
-    "static/js/3.380075c9.chunk.js.map": "/static/js/3.380075c9.chunk.js.map",
+    "main.js": "/static/js/main.ffdd7659.chunk.js",
+    "main.js.map": "/static/js/main.ffdd7659.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86d6d7f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86d6d7f2.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.5a3b1457.chunk.js": "/static/js/2.5a3b1457.chunk.js",
+    "static/js/2.5a3b1457.chunk.js.map": "/static/js/2.5a3b1457.chunk.js.map",
+    "static/js/3.67b50def.chunk.js": "/static/js/3.67b50def.chunk.js",
+    "static/js/3.67b50def.chunk.js.map": "/static/js/3.67b50def.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/2.acf9cc11.chunk.css.map": "/static/css/2.acf9cc11.chunk.css.map",
+    "static/css/2.8c0e6b67.chunk.css.map": "/static/css/2.8c0e6b67.chunk.css.map",
     "static/css/main.9ec19f23.chunk.css.map": "/static/css/main.9ec19f23.chunk.css.map",
-    "static/js/2.e6513078.chunk.js.LICENSE.txt": "/static/js/2.e6513078.chunk.js.LICENSE.txt",
+    "static/js/2.5a3b1457.chunk.js.LICENSE.txt": "/static/js/2.5a3b1457.chunk.js.LICENSE.txt",
     "static/media/Big-mechant.be7bb2cf.png": "/static/media/Big-mechant.be7bb2cf.png",
     "static/media/App.css": "/static/media/Tokyo-Regular.663086c7.ttf",
     "static/media/Daron.4aa4d2da.png": "/static/media/Daron.4aa4d2da.png",
@@ -61,10 +61,10 @@
     "static/media/updates-task-right.1342a86b.png": "/static/media/updates-task-right.1342a86b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.b9c1b99e.js",
-    "static/css/2.acf9cc11.chunk.css",
-    "static/js/2.e6513078.chunk.js",
+    "static/js/runtime-main.86d6d7f2.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.5a3b1457.chunk.js",
     "static/css/main.9ec19f23.chunk.css",
-    "static/js/main.9b5b97b4.chunk.js"
+    "static/js/main.ffdd7659.chunk.js"
   ]
 }
